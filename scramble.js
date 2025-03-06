@@ -21,15 +21,6 @@ const words = [
     { word: "determine", hint: "To decide firmly", difficulty: "hard" },
     { word: "grateful", hint: "Feeling thankful", difficulty: "hard" },
     { word: "generous", hint: "Willing to give and share", difficulty: "hard" },
-    { word: "ambitious", hint: "Having strong desire to succeed", difficulty: "hard" },
-
-    // EXPERT LEVEL (10+ letters)
-    { word: "perseverance", hint: "Persistence despite difficulty", difficulty: "expert" },
-    { word: "enthusiastic", hint: "Showing intense interest", difficulty: "expert" },
-    { word: "responsible", hint: "Having duty or obligation", difficulty: "expert" },
-    { word: "courageous", hint: "Showing bravery", difficulty: "expert" },
-    { word: "determined", hint: "Having made a firm decision", difficulty: "expert" },
-    { word: "passionate", hint: "Having strong feelings", difficulty: "expert" }
 ];
 
 const POWER_UPS = {
